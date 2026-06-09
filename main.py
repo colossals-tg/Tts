@@ -4,9 +4,9 @@ import requests
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-API_ID = 29656078
-API_HASH = "b53b91e49ca50958abeb8e1f66319376"
-BOT_TOKEN = "8523816033:AAEZe6xoPN5v_5gbXlM93sqeywVnPtiAylc"
+API_ID = 
+API_HASH = ""
+BOT_TOKEN = "8523816033:_5gbXlM93sqeywVnPtiAylc"
 
 API_URL = "https://gemini-aistudio-audio-automator.onrender.com/request"
 
